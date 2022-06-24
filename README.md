@@ -17,7 +17,7 @@ Originally data was stored in the JavaScript file as array:
 
 # Results
 
-<a href="https://olgapodolska.github.io/Improbable_Beef/index.html">Belly Button Biodeversity Dashboard</a>
+Dynamic site: <a href="https://olgapodolska.github.io/Improbable_Beef/index.html">Belly Button Biodeversity Dashboard</a>
 
 Now we have the new fully functional webpage, where volunteers can search their results of bacterium biodiversity study and see visualized results in the different charts.
 
@@ -33,3 +33,15 @@ Now we have the new fully functional webpage, where volunteers can search their 
 
 ![gauge.png](/Beef_data/gauge.png) 
 
+4. For the better visability I customized the dashboard:
+
+* Added the image to the jumbotron
+* Changed background color
+* Used a custom color for font with contrast for the background
+* Added more information about the project 
+* Created the additional space between the charts
+
+![site.png](/Beef_data/site.png) 
+
+Now the site is interactive and can display the all charts according to their requirements!
+https://olgapodolska.github.io/Improbable_Beef/index.html 
