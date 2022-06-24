@@ -5,6 +5,8 @@ JavaScript charts to visualize bacterium biodiversity study
 
 I created engaging and dynamic charts with Plotly to share the information about bacterias used to product synthetic beef meat. Major task in her project: to create a dashboard in which project's volunteers can select their anonymized ID from a dropdown menu in the browser in order to display information about their belly button critters.
 
+Microbiological startup “Improbable Beef” discovered the bacteria with ability to synthesize proteins that taste like beef.  This microorganism can supply next best taste of food, and apparently lives in a human belly button. The company needs volunteers who will take participation in the discovery: between individuals quantity of bacterial species may vary even in the same location. Each person’s identity is anonymous, but the data you can see at this site.  
+
 JavaScript
 Plotly
 D3.js
@@ -15,8 +17,7 @@ Originally data was stored in the JavaScript file as array:
 
 # Results
 
-[Belly Button Biodeversity Dashboard]
-(https://olgapodolska.github.io/Improbable_Beef/index.html)
+<a href="https://olgapodolska.github.io/Improbable_Beef/index.html">Belly Button Biodeversity Dashboard</a>
 
 Now we have the new fully functional webpage, where volunteers can search their results of bacterium biodiversity study and see visualized results in the different charts.
 
