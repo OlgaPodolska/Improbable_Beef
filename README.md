@@ -1,6 +1,30 @@
 # Improbable_Beef
 JavaScript charts to visualize bacterium biodiversity study
 
-I created engaging and dynamic charts with Plitly to share the information with my audience in the best way. For volunteers who are interested in selling their bacteria to Improbable Beef, what is the best way to visualize the types of bacteria that colonize their bellies? Some of them will be suitable for synthetic beef production, while others will not.
+* Overview of Project
 
-major task in her project: to create a dashboard in which her volunteers can select their anonymized ID from a dropdown menu in the browser in order to display information about their belly button critters.
+I created engaging and dynamic charts with Plotly to share the information about bacterias used to product synthetic beef meat. Major task in her project: to create a dashboard in which project's volunteers can select their anonymized ID from a dropdown menu in the browser in order to display information about their belly button critters.
+
+JavaScript
+Plotly
+D3.js
+
+Originally data was stored in the JavaScript file as array:
+
+![array.png](/Beef_data/array.png) 
+
+* Results
+
+Now we have the new fully functional webpage, where volunteers can search their results of bacterium biodiversity study and see visualized results in the different charts.
+
+1. Horizontal bar chart to display the top 10 bacterial species (OTUs) found per sample
+
+![bar.png](/Beef_data/bar.png) 
+
+2. Bubble chart that to display the divercity of bacteria cultures per sample
+
+![bubble.png](/Beef_data/bubble.png) 
+
+3. Gauge chart that displays the weekly washing frequency's value
+
+![gaude.png](/Beef_data/gaude.png) 
